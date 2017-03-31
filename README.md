@@ -10,10 +10,10 @@
 
 § DataBase: ...
 
-§ 프로그램 구동 Class: /src/Main/MainFrame.java
-
 § 협력 및 버젼관리: google drive...(버전관리에 대한 개념이 없었음)
 
 § 참고 및 협조: countless googling & 공군주식회사 예비역 장교 K
 
 § Presentaion: https://drive.google.com/file/d/0B22m7QJBEi_KbHJuUHo1Z2c1SDA/view?usp=sharing (locked)
+
+§ 프로그램 구동 Class: /src/Main/MainFrame.java
